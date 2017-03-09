@@ -1,0 +1,19 @@
+{
+  "name": "nodepro00",
+  "version": "1.0.0",
+  "description": "这是一个node项目",
+  "main": "main.js",
+  "scripts": {
+    "test": "ttt"
+  },
+  "keywords": [
+    "node.js",
+    "技术"
+  ],
+  "author": "CLW_ACE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "utility": "^1.10.0"
+  }
+}
